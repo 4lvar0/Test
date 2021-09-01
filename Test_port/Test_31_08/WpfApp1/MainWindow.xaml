@@ -9,7 +9,6 @@
     <Grid>
         <Label Content="Esto es un test." HorizontalAlignment="Left" Margin="320,104,0,0" VerticalAlignment="Top" Height="53" Width="150"/>
         <Label Content="Wena bro" HorizontalAlignment="Left" Margin="303,282,0,0" VerticalAlignment="Top" Height="53" Width="150"/>
-        <Label Content="Prueba1" HorizontalAlignment="Left" Margin="103,184,0,0" VerticalAlignment="Top" Width="142"/>
 
     </Grid>
 </Window>
